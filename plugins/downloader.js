@@ -35,7 +35,7 @@ Sparky(
 );
 
 Sparky({
-    name: "gpt",
+    name: "anna",
     fromMe: true,
     category: "misc",
     desc: "Query GPT-3 with a prompt"
